@@ -1,0 +1,16 @@
+
+
+
+
+CREAR COMPONENTES :
+
+
+/*
+g - generate
+c - create
+
+crea el componente cabecera.
+*/
+ng g c cabecera
+
+--recordar actualizar app.module.ts
